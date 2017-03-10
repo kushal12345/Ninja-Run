@@ -1,6 +1,6 @@
 # Ninja-Run
-This is a small CPP game i made using SFML library.
-for this to run run the following in you terminal 
-1. sudo apt-get install libsfml-dev
-2. Make all
-3. bin/Game
+This is a small CPP game i made using SFML library.<br/>
+for this to run run the following in you terminal <br/>
+1. sudo apt-get install libsfml-dev<br/>
+2. Make all<br/>
+3. bin/Game<br/>
